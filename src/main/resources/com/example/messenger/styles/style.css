@@ -7,18 +7,19 @@
 }
 
 .btnLogin:hover {
-    -fx-background-color: #62727b !important;
-    -fx-text-fill: #4db6ac;
+    -fx-background-color:  #5F7EB7;
+    -fx-text-fill: white;
 }
 
 .allButton {
-    -fx-background-color:  #718792;
+    -fx-background-color:  #5F7EB7;
     -fx-background-radius: 90;
+    -fx-text-fill: white;
 }
 
 .allButton:hover {
-    -fx-background-color: #819ca9;
-    -fx-text-fill: #000000;
+    -fx-background-color:  #5F7EB7;
+    -fx-text-fill: white;
 }
 
 .txtFont {
